@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>amd.png</file>
+        <file>intel.png</file>
+    </qresource>
+</RCC>
